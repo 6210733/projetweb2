@@ -1,0 +1,9 @@
+
+*
+
+!uploads/
+!uploads/*
+
+!.gitignore
+
+
